@@ -1,0 +1,211 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.suffer{
+    background-image: url("https://img.cdn4dd.com/cdn-cgi/image/fit=cover,format=auto,quality=60/https://cdn.doordash.com/managed/consumer/seo/home/hero_v3/hero_desktop.png");
+     background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 100%;
+   min-height: 650px;
+   box-sizing: border-box;
+   flex-wrap: wrap;
+}
+.yuik{
+    
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  
+}
+.yakka{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+    margin-right: 25px;
+   
+    
+}
+.aa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    background-color: rgb(235,23,1);
+    color: white;
+     width: 80px;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+.ba{
+  font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    background-color: rgb(255, 255, 255);
+    color:rgb(87,98,112);
+    width: 90px;
+    max-width: 100%;  
+   
+}
+.blergh{
+     display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+    flex-wrap: wrap;
+    padding-top: 15px;
+}
+.alerts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    flex-wrap: wrap;
+     padding: 0 20px;
+}
+.imaz {
+    margin-bottom: 0;
+}
+.taiwo{
+    padding-top: 100px;
+}
+.farce {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 33px;
+    margin: 0;
+   font-weight: 900;
+   flex-wrap: wrap;
+   }
+.taiwo span{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 11px;
+}
+.taiwo input{
+    height: 50px;
+    max-height: 50px;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 430px;
+    padding: 5px 0px 5px 20px;
+    border-radius: 30px;
+    border: none;
+    flex-wrap: wrap;
+}
+.field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.battle{
+    background-color: white;
+    width: 210px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-left: 5px; */
+    flex-wrap: wrap;
+    padding: 0 10px;
+}
+
+.battle img{
+    width: 20px;
+}
+.ibo{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 5px;
+    padding-right: 10px;
+    flex-wrap: wrap;
+}
+.wire{
+     width: 100%;
+   height: 650px;
+   min-height: 650px;
+   flex-wrap: wrap;
+   
+}
+.jane{
+  justify-self: center;
+  align-self: center; 
+  flex-wrap: wrap; 
+}
+.artist{
+      font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    width: fit-content;
+    margin: 0;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.menn { 
+    
+    padding: 20px;}
+
+.wahal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    width: fit-content;
+    margin: 0;
+    font-size: 18px;
+    flex-wrap: wrap;
+
+}
+.eary
+{
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(204,45,59);
+    margin: 0;
+    flex-wrap: wrap;
+}
+.rift
+{
+    width: 20px;
+}
+.musta{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 10px 0;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+.kudos{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* align-items: center; */
+    
+
+}
+.opay{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    gap: 120px;
+}
